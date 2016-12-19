@@ -23,16 +23,13 @@ public class BOJ1110 {
 				b=result;
 			}
 			
-			result = (a+b);
-			
-			System.out.println("param : " + param);
+			result=b*10+((a+b)%10);
 			
 			if(param == result){
 				System.out.println(count);
 				break;
 			}else{
 				result=b*10+((a+b)%10);
-				System.out.println("result : " + result);
 			}
 		}
 	}
