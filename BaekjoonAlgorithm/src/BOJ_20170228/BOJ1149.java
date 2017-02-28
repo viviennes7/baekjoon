@@ -1,4 +1,4 @@
-package BOJ_20161227;
+package BOJ_20170228;
 
 import java.util.Scanner;
 
