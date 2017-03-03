@@ -54,5 +54,8 @@ public class BOJ10828 {
 				}
 			}
 		}
+		
+
+		scanner.close();
 	}
 }

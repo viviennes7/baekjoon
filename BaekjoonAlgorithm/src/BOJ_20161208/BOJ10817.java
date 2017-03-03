@@ -33,5 +33,7 @@ public class BOJ10817 {
 			 v1=temp;
 		}
 		System.out.println(v1);
+
+		scanner.close();
 	}
 }

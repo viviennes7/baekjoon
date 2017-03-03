@@ -23,6 +23,8 @@ public class BOJ2577 {
 		for(int i : intAry){
 			System.out.println(i);
 		}
+		
+		scanner.close();
 	}
 	
 	public static int getLengh(int num){

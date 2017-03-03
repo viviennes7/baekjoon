@@ -10,5 +10,7 @@ public class BOJ2739 {
 		for(int i = n; i>0; i--){
 			System.out.println(i);
 		}
+
+		scanner.close();
 	}
 }

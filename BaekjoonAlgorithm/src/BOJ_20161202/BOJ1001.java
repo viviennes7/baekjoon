@@ -8,5 +8,7 @@ public class BOJ1001 {
 		int a = scanner.nextInt();
 		int b = scanner.nextInt();
 		System.out.println(a-b);
+		
+		scanner.close();
 	}
 }

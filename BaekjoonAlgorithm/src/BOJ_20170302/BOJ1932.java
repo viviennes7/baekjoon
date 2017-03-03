@@ -47,5 +47,7 @@ public class BOJ1932 {
 			}
 		}
 		System.out.println(result);
+
+		scanner.close();
 	}
 }

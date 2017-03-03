@@ -27,6 +27,8 @@ public class BOJ10871 {
 			}
 		}
 		System.out.println(result);
+
+		scanner.close();
 	}
 	
 }

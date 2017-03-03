@@ -28,6 +28,8 @@ public class BOJ1026 {
 		}
 		
 		System.out.println(result);
+
+		scanner.close();
 	}
 	
 	public static int[] changeIntAry(String str, int count){

@@ -10,5 +10,7 @@ public class BOJ2742 {
 		for(int i = 1; i<=9; i++){
 			System.out.println(n + " * " + i + " = " + n*i);
 		}
+
+		scanner.close();
 	}
 }

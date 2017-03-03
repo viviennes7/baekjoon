@@ -40,6 +40,8 @@ public class BOJ1149 {
 		result = minR < minG ? (minR < minB ? minR : minB) : (minG < minB ? minG : minB);
 		
 		System.out.println(result);
+
+		scanner.close();
 	}
 	
 	public static int[] changeIntAry(String str){

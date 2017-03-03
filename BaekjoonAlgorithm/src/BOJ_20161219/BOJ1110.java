@@ -9,7 +9,6 @@ import java.util.Scanner;
  * */
 public class BOJ1110 {
 	public static void main(String[] args) {
-		long start = System.currentTimeMillis();
 		Scanner scanner = new Scanner(System.in);
 		int param = scanner.nextInt();
 		int a = 0;
@@ -33,6 +32,8 @@ public class BOJ1110 {
 				result=b*10+((a+b)%10);
 			}
 		}
+
+		scanner.close();
 	}
 	
 }

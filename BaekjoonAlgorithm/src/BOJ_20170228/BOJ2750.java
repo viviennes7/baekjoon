@@ -23,6 +23,8 @@ public class BOJ2750 {
 		for(int i : intAry){
 			System.out.println(i);
 		}
+
+		scanner.close();
 	}
 	
 	

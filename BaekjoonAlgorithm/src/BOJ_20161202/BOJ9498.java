@@ -18,5 +18,7 @@ public class BOJ9498 {
 		}else{
 			System.out.println("F");
 		}
+
+		scanner.close();
 	}
 }

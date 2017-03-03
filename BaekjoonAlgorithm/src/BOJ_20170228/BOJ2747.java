@@ -18,5 +18,7 @@ public class BOJ2747 {
 		}
 
 		System.out.println(b);
+
+		scanner.close();
 	}
 }

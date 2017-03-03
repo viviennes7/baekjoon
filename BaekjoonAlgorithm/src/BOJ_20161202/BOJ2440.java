@@ -15,5 +15,7 @@ public class BOJ2440 {
 			}
 			System.out.println();
 		}
+
+		scanner.close();
 	}
 }

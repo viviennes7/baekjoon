@@ -25,7 +25,8 @@ public class BOJ9095 {
 			System.out.println(getDp(request));
 		}
 		
-		
+
+		scanner.close();
 	}
 	
 	public static int getDp(int count){

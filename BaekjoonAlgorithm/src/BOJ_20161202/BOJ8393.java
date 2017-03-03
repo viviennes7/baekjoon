@@ -11,5 +11,7 @@ public class BOJ8393 {
 			result+=i;
 		}
 		System.out.println(result);
+
+		scanner.close();
 	}
 }
